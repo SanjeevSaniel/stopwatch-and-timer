@@ -1,0 +1,6 @@
+{
+  "name": "Stopwatch and Timer",
+  "description": "A high-performance Stopwatch and Timer Studio featuring a viewport-locked layout, collapsible presets and history tool sidebars, real-time statistics telemetry, and responsive sound cues.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
